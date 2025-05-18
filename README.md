@@ -20,7 +20,7 @@ Please note that the underlying logic has been removed from the public repositor
 |--------------------|--------------------|
 | ![20221110_104608](https://github.com/user-attachments/assets/3891335c-a599-4075-ae66-3084cc84273c) | ![IQAT_Crypto](https://github.com/user-attachments/assets/9db7ed1b-2239-4b50-9747-6dcd8405252a) |
 
-| Sentiment (Twitter) | Stats |
+| Sentiment (Twitter) | Stats             |
 |--------------------|--------------------|
 | ![IQAT_Sentiment_Twitter_1](https://github.com/user-attachments/assets/df6f67a4-36d0-4f28-8dbf-0917aecd4724) | ![IQAT_Fundamental_3](https://github.com/user-attachments/assets/561448fd-0c87-46ba-8b2f-5bb679f4adaa)  |
 
