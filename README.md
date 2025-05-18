@@ -1,16 +1,16 @@
-IQAT – Integrated Quantitative Analytical Tools
+# IQAT – Integrated Quantitative Analytical Tools
 
 ⚠️ Note: This repository contains a partial version of the IQAT platform for demonstration purposes only. Core functionalities and logic have been intentionally removed.
 📩 Interested in full access or collaboration? Contact the developer.
 
-🚀 Overview
+## 🚀 Overview
 No one gets into trading thinking it will be easy. I certainly didn't when I started more than a decade ago.
 What surprised me most was how much external noise, emotions, bias, and even a CEO's tweet could cloud my analysis and hurt consistency.
 After years of frustration with manual analysis and unreliable tools, in 2017 while studying in Milan, I started building a better system—one that combines quantitative methods, automation, and intuitive dashboards.
 Today, this system has evolved into IQAT — a platform designed to empower analysts and traders with meaningful insights.
 I started IQAT to bridge the gap between professional-grade tools and accessibility for everyday traders. Since then, it has grown into a robust platform, constantly evolving with new features and custom tools.
 
-🧠 Platform Features Preview (Partial Demo)
+## 🧠 Platform Features Preview (Partial Demo)
 Below is a preview of the UI and modules of IQAT.
 Please note that the underlying logic has been removed from the public repository. For full access or partnership opportunities, please reach out.
 
@@ -41,7 +41,7 @@ Please note that the underlying logic has been removed from the public repositor
 ![20221110_104447](https://github.com/user-attachments/assets/35964fc2-cca4-4ec8-a3cb-30636a8225be)
 
 
-❗ Disclaimer
+## ❗ Disclaimer
 This GitHub repository is intended to showcase the structure and design of IQAT.
 It does not contain the full logic, algorithms, or database integrations used in the actual application.
 
