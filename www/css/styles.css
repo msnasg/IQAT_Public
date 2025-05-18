@@ -1,0 +1,9 @@
+
+/* CSS styles used in the shiny app */
+/* https://www.w3schools.com/cssref/css_selectors.php */
+
+.brand-picker button.btn.dropdown-toggle.btn-default {
+        background-color: #eaeaea;
+        color: green;
+        font-weight: bold;
+      }

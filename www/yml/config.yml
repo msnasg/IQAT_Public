@@ -1,0 +1,62 @@
+icons:
+  home: 'home'
+  refresh: 'refresh'
+  question: 'question' 
+  gear: 'gear'
+  cogs: 'cogs'
+  bars: 'bars'
+  atsign: 'at'
+  headset: 'headset'
+  table: 'table'
+  question_circle: 'question-circle'
+  database: 'database'
+  bolt: 'bolt'
+  bell: 'bell'
+  twitter: 'twitter'
+  facebook: 'facebook'
+  google: 'google'
+  newspaper: 'newspaper'
+  industry: 'industry'
+  rss: 'rss'
+  infinity: 'infinity'
+  chess: 'chess'
+  robot: 'robot'
+  user: 'user'
+  user_tie: 'user-tie'
+  user_check: 'user-check'
+  exclamation: 'exclamation'
+  list_check: 'list-check'
+  check: 'check'
+  circle_info: 'circle-info'
+  list: 'list'
+  upload: 'upload'
+  chart_column: 'chart-column'
+  chart_line: 'chart-line'
+  searchengin: 'searchengin'
+  money_bill_trend_up: 'money-bill-trend-up'
+  chart_pie: 'chart-pie'
+  chart_area: 'chart-area'
+  yin_yang: 'yin-yang'
+  piggy_bank: 'piggy-bank'
+  puzzle_piece: 'puzzle-piece'
+  arrowtrendup: 'arrow-trend-up'
+  sack_dollar: 'sack-dollar'
+  bitcoin: 'bitcoin'
+  dollar: 'dollar-sign'
+  people_roof: 'people-roof'
+  people_group: 'people-group'
+  laptop_code: 'laptop-code'
+  
+colors:
+  main_nvar:  '#4169E1'
+  title_text: '#0000FF'
+  
+font_size:
+  general: 12
+  tab_titr: 13
+  
+  
+
+  
+  
+
