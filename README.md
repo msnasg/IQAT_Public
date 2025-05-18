@@ -20,9 +20,9 @@ Please note that the underlying logic has been removed from the public repositor
 |---------|------------------|
 | ![20221110_104608](https://github.com/user-attachments/assets/3891335c-a599-4075-ae66-3084cc84273c) | ![IQAT_Crypto](https://github.com/user-attachments/assets/9db7ed1b-2239-4b50-9747-6dcd8405252a) |
 
-| Sentiment (Twitter) | Chart |
+| Sentiment (Twitter) | Stats |
 |--------------------|--------------------|
-| ![IQAT_Sentiment_Twitter_1](https://github.com/user-attachments/assets/df6f67a4-36d0-4f28-8dbf-0917aecd4724) | ![IQAT_Technical_1](https://github.com/user-attachments/assets/bffa2e25-afc8-4324-a553-ddceaaab71a6) |
+| ![IQAT_Sentiment_Twitter_1](https://github.com/user-attachments/assets/df6f67a4-36d0-4f28-8dbf-0917aecd4724) | ![IQAT_Fundamental_3](https://github.com/user-attachments/assets/561448fd-0c87-46ba-8b2f-5bb679f4adaa)  |
 
 | Regression | Regression |
 |--------------------|--------------------|
@@ -51,11 +51,6 @@ Please note that the underlying logic has been removed from the public repositor
 | Fundamental 1 | Fundamental 2 |
 |--------------------|--------------------|
 | ![IQAT_Fundamental_1](https://github.com/user-attachments/assets/74a6d672-6a11-421d-ba83-68b2ce06c90a) | ![IQAT_Fundamental_2](https://github.com/user-attachments/assets/b26578af-6fce-4281-bf2a-bedaa8dde0d4) |
-
-
-| Fundamental 3 | TradingView Chart |
-|--------------------|--------------------|
-| ![IQAT_Fundamental_3](https://github.com/user-attachments/assets/561448fd-0c87-46ba-8b2f-5bb679f4adaa) | ![20221110_104605](https://github.com/user-attachments/assets/8d11a0da-e912-48d2-bc5a-7d6aa2bde521) |
 
 
 
