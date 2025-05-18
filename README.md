@@ -16,7 +16,7 @@ Please note that the underlying logic has been removed from the public repositor
 
 ![IQAT_Home](https://github.com/user-attachments/assets/7010ef47-8a44-4f88-96c4-382e396e2996)
 
-| Market | Screener |
+| Market             | Screener           |
 |--------------------|--------------------|
 | ![20221110_104608](https://github.com/user-attachments/assets/3891335c-a599-4075-ae66-3084cc84273c) | ![IQAT_Crypto](https://github.com/user-attachments/assets/9db7ed1b-2239-4b50-9747-6dcd8405252a) |
 
